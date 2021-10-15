@@ -59,6 +59,8 @@ How to use or download these summaries or cheat sheets
 
 ![2021-10-15_144255](https://user-images.githubusercontent.com/72635460/137556799-3563422b-632d-4aad-957e-a83db9ec03bf.png)
 
+Follow me on
+
 Facebook : https://www.facebook.com/profile.php?id=100005707052670
 
 Youtube : https://www.youtube.com/channel/UCrp30YJOmb7FG9k3bfkCFBA
@@ -76,3 +78,19 @@ Pastebin :https://pastebin.com/u/YoussefPro986...
 Contact and support
 
 Email : youssefpro986@gmail.com
+
+You can also visit our official website
+
+https://youssefpro986.blogspot.com/
+
++ see also
+
+Privacy policy
+
+https://youssefpro986.blogspot.com/p/privacy-policy.html
+
+Usage Agreement
+
+https://youssefpro986.blogspot.com/p/usage-agreement.html
+
+All rights reserved to Yousef Pro 2005 - 2021 (C)
