@@ -7,6 +7,16 @@ This repository was created in order to publish contents + useful code cheat she
 
 Now if you are a beginner and want to learn programming, you can use this repository to get more information, books, courses, summaries, as well as cheat sheets about programming and others, and it will also benefit you in your learning journey.
 
+How can I do a bundle of summaries and cheat sheets at once
+
+When you enter this repository, you will find it at the top of the website page, button its name (code).
+
+![2021-10-15_145849](https://user-images.githubusercontent.com/72635460/137558092-5773ceef-aa49-41d4-9941-83df49f4d9b6.png)
+
+Then this drop-down menu will appear for you, and then you will download all the contents of the entire package
+
+![2021-10-15_145727](https://user-images.githubusercontent.com/72635460/137558087-11f11ab0-02de-44a9-9b1a-f252ce5cbc47.png)
+
 How to use or download these summaries or cheat sheets
 
 1 The first thing you have to do is choose a folder or section from the following disciplines
