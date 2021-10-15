@@ -7,6 +7,10 @@ This repository was created in order to publish contents + useful code cheat she
 
 Now if you are a beginner and want to learn programming, you can use this repository to get more information, books, courses, summaries, as well as cheat sheets about programming and others, and it will also benefit you in your learning journey.
 
+You can also download the package file directly from the following link:
+
+https://codeload.github.com/YoussefPro986/Programming-documents-books---courses---cheat-sheets-/zip/refs/heads/main
+
 How can I do a bundle of summaries and cheat sheets at once
 
 When you enter this repository, you will find it at the top of the website page, button its name (code).
