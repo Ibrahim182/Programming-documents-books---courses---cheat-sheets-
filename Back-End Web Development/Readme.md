@@ -1,5 +1,8 @@
 
 What is Backend Development?
+
+![backenddeveloper-2502825a14ff440eb775dc4244e7ed4d](https://user-images.githubusercontent.com/72635460/137557261-d8d1ef5c-87bb-4d7c-8ca1-858eba8c41be.png)
+
 Back-end Development refers to the server-side development. It focuses on databases, scripting, website architecture. It contains behind-the-scene activities that occur when performing any action on a website. It can be an account login or making a purchase from an online store. Code written by back-end developers helps browsers to communicate with database information.
 
 Example:
