@@ -7,6 +7,26 @@ This repository was created in order to publish contents + useful code cheat she
 
 Now if you are a beginner and want to learn programming, you can use this repository to get more information, books, courses, summaries, as well as cheat sheets about programming and others, and it will also benefit you in your learning journey.
 
+How do I go to sections and folders easily
+
+The following warehouse sections:
+
+1 - Back-End Web Development
+
+https://github.com/YoussefPro986/Programming-documents-books---courses---cheat-sheets-/tree/main/Back-End%20Web%20Development
+
+2 - Desktop Application Development
+
+https://github.com/YoussefPro986/Programming-documents-books---courses---cheat-sheets-/tree/main/Desktop%20Application%20Development
+
+3 - Front-End Web Development
+
+https://github.com/YoussefPro986/Programming-documents-books---courses---cheat-sheets-/tree/main/Front-End%20Web%20Development
+
+4 - Mobile App Development
+
+https://github.com/YoussefPro986/Programming-documents-books---courses---cheat-sheets-/tree/main/Mobile%20App%20Development
+
 You can also download the package file directly from the following link:
 
 https://codeload.github.com/YoussefPro986/Programming-documents-books---courses---cheat-sheets-/zip/refs/heads/main
