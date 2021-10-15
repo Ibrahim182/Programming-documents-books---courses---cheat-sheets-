@@ -1,6 +1,8 @@
 # Programming documents (books - courses - cheat sheets)
 This is a repository of programming documents (books - courses - cheat sheets) and everything related to programming
 
+![ProgrammingIllustration](https://user-images.githubusercontent.com/72635460/137557453-21be0b42-01ec-4bdf-b431-57f6dbbff812.png)
+
 This repository was created in order to publish contents + useful code cheat sheets for those who want to learn programming
 
 Now if you are a beginner and want to learn programming, you can use this repository to get more information, books, courses, summaries, as well as cheat sheets about programming and others, and it will also benefit you in your learning journey.
