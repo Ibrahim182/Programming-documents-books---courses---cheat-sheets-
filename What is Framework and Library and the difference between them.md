@@ -1,6 +1,6 @@
 What is Framework and Library and the difference between them?
 
-[229724793_1776412259225659_7847986719457952201_n](https://user-images.githubusercontent.com/72635460/137601787-dd8b01e5-eeeb-4cc9-9a27-a6bd81e9c68b.jpg)
+![229724793_1776412259225659_7847986719457952201_n](https://user-images.githubusercontent.com/72635460/137601787-dd8b01e5-eeeb-4cc9-9a27-a6bd81e9c68b.jpg)
 
 There is no doubt that the terms libraries and Freamworks have become frequent between new and veteran programmers, so what do they mean and what is the difference between them?
 
