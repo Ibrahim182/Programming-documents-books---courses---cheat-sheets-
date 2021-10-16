@@ -7,6 +7,16 @@ This repository was created in order to publish contents + useful code cheat she
 
 Now if you are a beginner and want to learn programming, you can use this repository to get more information, books, courses, summaries, as well as cheat sheets about programming and others, and it will also benefit you in your learning journey.
 
+What exactly is the purpose of this repository?
+
+Through this repository, you will benefit from one of the following features
+
+You will have a set of cheat sheets as well as programming summaries, all in (PDF) format, with much clearer quality
+
+When are the files updated?
+
+These files are updated at certain times and additional resources are added in order for the user to benefit from the content we provide to him
+
 How do I go to sections and folders easily
 
 The following warehouse sections:
