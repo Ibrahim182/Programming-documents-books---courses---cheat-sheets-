@@ -1,0 +1,103 @@
+What are algorithms
+And why should you learn it?
+
+✴ Algorithm:
+It is a set of specific steps
+The sequence needed to solve a problem
+or in order to perform a specific task.
+
+Example
+Age calculation algorithm.
+Current year - year of birth = age
+2021 - 2001 = 20
+
+Another example .
+Ahmed wants to go to the museum.
+Suggested methods (algorithms).
+1 - Hire a taxi
+2- Using public transportation
+
+In order to determine the best way to go to the museum
+ Among the roads above
+Two main points must be understood
+1 - Time (calculating the time taken to reach the museum)
+
+2- The material cost of each method
+
+⭕ - taxi
+Very expensive, but in less time
+
+⭕ - Public transportation
+Less cost but more time than a taxi
+
+After knowing the advantages and disadvantages of each method, the best solution must be chosen that suits Ahmed's budget 😎
+
+If Ahmed has enough money, he chooses
+⭕ Taxi
+
+If he does not have enough money, he will choose
+⭕ Public transportation.
+
+✴ Algorithms in programming.
+is a set of clear code that
+ They are executed one after the other in sequence
+ to solve a problem.
+
+The study of algorithms is concerned with two important factors.
+
+ ⭕ Time complexity
+  The time the computer spends executing the algorithm
+ 
+ ⭕ Space complexity
+  The amount of memory the program used to implement the algorithm.
+
+Example.
+⭕ Make a program to add numbers from 1 to 1000
+(1 + 2 + 3 +...... 1000)
+
+Methods of solution
+✴ Use of repetition functions
+We create a repeating function that combines numbers from 1 to 1000
+
+using javascript
+``` js
+let total = 0;
+for(let i = 1 ; i <= 1000; i++) {
+    total += i;
+}
+console.log(total);
+```
+Use this method
+It won't use much memory
+But the implementation time is very long.
+
+✴ Using the following rule
+Sum = N * (N + 1) / 2
+
+where N = the number we want to add to
+
+``` js
+function sumTo(n) {
+    return ((n + 1) * n) / 2;
+}
+
+let total = sumTo(1000)
+
+console.log(total)
+```
+this method
+You don't need much time
+And it doesn't use a lot of memory
+
+✳ Algorithm Quality Factors
+Short execution time
+✴ You don't need to use much memory
+✴ Clear and easy to understand steps
+✴ Accurately define input and output
+
+✳ Why you should learn algorithms.
+
+The importance of learning algorithms in
+⭕ Improve program execution time.
+⭕ Correct use of memory.
+⭕ Simplify the code due to the reliance on clear and easy to understand steps
