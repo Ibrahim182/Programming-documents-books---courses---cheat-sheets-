@@ -1,0 +1,136 @@
+Programming encompasses a broad range of topics and skills. Those interested in breaking into the industry may find it challenging to narrow down a field of study without understanding roles and the tasks that go with them. Two common career tracks are front end web development and back end web development.
+
+There are many similarities between front end and back end development careers, including salaries, career longevity, and job growth. In this guide, we help break down the more intricate details of both back end and front end development to help you decide what area you're interested in. We'll cover:
+
+What is web development?
+Types of web development: how does back end and front end development compare to full stack development
+Front end and back end development defined
+Programming languages used in front end and back end development
+Front end and back end development jobs
+Salaries for front end developers and back end developers
+Choosing which type of web development is best for you
+Bootcamps for front end development and back end development
+What Is Web Development?
+At its most basic, web development is developing a website for the internet. Web development generally refers to the more non-design aspect of a website, which includes using programming, markup, and scripting languages to create features and functionality. Developers focus on the technical part of building a website, such as constructing the layout, programming, and integrating applications and graphics.
+
+What Types of Web Development Are There?
+Back end, front end, and full stack web development are three separate career paths that can sometimes feel muddied in the technology space. Put plainly, back end developers are focused on data, modeling, and the back end of a website. Front end developers help build what users interact with and see. A full stack developer does some or all of the above.
+
+What Is a Front End Developer?
+Front End Development Defined
+Front end development is the part of web development that codes and creates front end elements of a website, which are features that are directly viewable and accessible by the end-user or client. Essentially, a front end developer is responsible for everything you see and works to enhance the user experience to ensure it is seamless. They help create the overall design and aesthetic, in addition to debugging and using static code analysis.
+
+Front End Developer Skills
+Front end developers are responsible for implementing visual components on a website as well as interactive features like navigation, buttons, or anything that enhances overall usability. HTML, JavaScript, and CSS are often used to make sure the visual side (or client-side) of a site runs smoothly so that users can interact freely and comfortably with it . Although some front end developers handle web design, others work from a web designer's mock-ups.
+
+Some of the skills required for a front end developer job include:
+
+A good grasp of front end programming languages
+The ability to create a responsive design
+A knowledge of testing and debugging
+An understanding of front end development tools and features like automation, content management systems, version control systems, APIs, and frameworks.
+Front End Developer Jobs
+Front end jobs range from developers who have mastered a specific coding language to those who possess a range of skills beyond the front end. Since the front end involves visual aesthetics, these jobs may also include graphic design and content. Many skills overlap between the different jobs, and specific titles may mean different things to each company.
+
+Front End Jobs:
+Front End Developer
+CSS/HTML Developer
+Front End Web Designer
+Front End SEO Expert
+Full Stack Developer
+UI Developer
+Front End Development Salaries
+According to Salary.com, the average front end developer salary in the US is around $119,200 and ranges anywhere from $95,700-$140,000. Their average salary is $144,200 in New York, $149,400 in San Francisco, and $130,400 in Seattle. Salaries are often based on a combination of education, experience, and industry.
+
+What Are Common Front End Development Languages?
+The main front end coding languages are HTML, CSS, and JavaScript. Front end developers focus on grid systems and layout as well as typography and color theory, using UX/UI principles to create a seamless experience.
+
+Coding Language
+Dictionary Definition
+Uses
+HTML	Hypertext Markup Language (HTML) is a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages.	HTML ensures the proper formatting of text and images so that your Internet browser may display them as they are intended to look.
+CSS	Cascading Style Sheets (CSS) is used to format the layout of web pages. This includes controlling text styles, table sizes, and colors.	CSS adapts web page presentation to different types of devices, such as large screens and small screens. It also creates printer-friendly pages.
+JavaScript	JavaScript is an object-oriented computer programming language commonly used to create interactive elements on a web page.	JavaScript enables dynamic user interface components such as checkboxes and search fields.
+What Is a Back End Developer?
+Back End Development Defined
+Back end development is aptly named for web development that occurs at the back end of programs. In contrast to front end development, which focuses on customer-facing products and programs, back end development addresses server-side web application logic and integration. Back end developers write code to help a database and application communicate. Essentially, a back end developer handles what you don't see; they are in charge of the back end of a website, which includes servers, databases, and applications.
+
+Back End Developer Skills
+Back end developers are responsible for making web pages and applications work through back end languages and frameworks such as Java or Ruby on Rails. They also monitor how the site is working and make changes and updates to improve the behind-the-scenes functionality.
+
+Some of the skills required for back end developer jobs include:
+
+Database management
+Framework utilization
+Programming
+Knowledge of accessibility and security compliance
+Back End Developer Jobs
+Back end developer jobs typically require a strong knowledge of programming. Some companies look for developers who have in-depth skills with a specific language, while others may require the ability to program in multiple languages. A smaller organization may want someone who can work both the back and front end, in other words, a full stack developer.
+
+Back End Jobs:
+Back End Developer
+Java Developer
+Full Stack Developer
+DevOps Engineer
+Software Engineer
+iOS Developer
+Back End Development Salaries
+According to Indeed, the average US base salary for back end developers is around $127,200. The average back end developer salary is about $141,250 in New York, $159,700 in San Francisco, and $116,275 in Austin. Salaries are often based on a combination of education, experience, and industry.
+
+What Are Common Back End Development Languages?
+Back end development requires more advanced programming languages such as Java, PHP, Ruby, and Python. Back end programming focuses on scripting and architecture and frequently uses frameworks and libraries like Ruby on Rails and .NET.
+
+Coding Language
+Dictionary Definition
+Uses
+Java	Java is a popular high-level programming language that is an object-oriented language and has a syntax that is similar to C++.	Java is most often used to create applications for computers. It is commonly used for large business applications, Big Data, and Android development.
+PHP	PHP is a general-purpose scripting language. The PHP runtime executes any PHP code in a requested file, usually to create dynamic web page content or dynamic images used on websites or elsewhere.	PHP is used for server-side web development.
+Python	Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.	Python can be used for virtually anything on a web application page.
+Choosing Which Type of Development Is Right for You
+Skilled front end developers and back end developers are in demand, and those with experience and a strong portfolio can land high-paying positions at startups, large organizations, and nonprofits.
+
+Mastering front end coding or back end coding can mean a very bright and secure future, but where do you begin? Answering a few questions will help you decide whether you prefer to focus on the server-side or client-side of a website, and which best fits your skills, goals, and passions.
+
+Do you enjoy making web design mockups come to life?
+Are you artistic?
+Do you have an aptitude for creating a visual framework?
+Are you interested in ensuring an excellent user interface and experience?
+Are you focused on website responsiveness?
+If you answered yes to the majority of these questions, then front end development is a good choice for you.
+
+Do you like using algorithms to make informed decisions?
+Do you enjoy a good coding challenge and working with more complex programming languages?
+Are you interested in the behind-the-scenes architecture of a website?
+Do you like to explore the different frameworks and libraries?
+If you answered yes to the majority of these questions, then back end development is a good choice for you.
+
+If you answered yes to both front end and back end questions, then you may want to pursue a career in full stack web development.
+
+What Bootcamps Teach Front End Development?
+If you are interested in pursuing front end development as a career, the highly rated programs below offer a curriculum that will help kickstart your career. You can also view our comprehensive list of front end development bootcamps.
+
+Bootcamp
+Cost
+Location(s)
+Rating on SwitchUp
+Formal Job Guarantee
+General Assembly	$3,950	Online, 24 US Locations, 4 Australia Locations, England, Singapore, Canada, France	4.29 stars	No
+Epicodus	$5,400	Online, Seattle, Portland (OR)	4.83 stars	No
+Noble Desktop	$2,995	Online, New York City	4.92 stars	No
+CareerFoundry	$690-$2000	Online, Berlin	4.55 stars	Yes
+V School	$21,000	Online	4.9 stars	No
+What bootcamps teach Back End Development?
+If you are interested in pursuing back end development as a career, the table below offers highly rated programs, or you can check out our comprehensive list of back end development bootcamps.
+
+Bootcamp
+Cost
+Location(s)
+Rating on SwitchUp
+Formal Job Guarantee
+CodingNomads	$1,950-$6,950	Online, Bali	5.0 stars	No
+DigitalCrafts	$9,950-$14,950	Online, Tampa, Seattle, Houston, Atlanta	4.96 stars	No
+Bedu Tech	$1300	Online, Monterrey, Mexico City, Guadalajara	4.76 stars	No
+General Assembly	$3,950-$15,950	Online, 24 US Locations, 4 Australia Locations, England, Singapore, Canada, France	4.29 stars	No
+Launch Academy	$17,500	Boston	4.51 stars	No
+Become a Front End or Back End Developer
+Bootcamps are an immersive and affordable option to learn the skills and gain the experience needed to start a career in front end or back end development. When choosing a bootcamp, it's important to look at what fits your budget, schedule, and location. You should also review the curriculum to ensure it will teach you the skills and languages you want to learn. If you need help getting started, use our "Get Matched" tool to receive a customized bootcamp match.
